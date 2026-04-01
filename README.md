@@ -7,3 +7,8 @@
 | castellan | CEO  |
 | kay       | CFO  |
 | steve     | CMO  |
+
+## 📬 연락처
+
+- 🌐 Website: [https://blosafe.com](https://blosafe.com)
+- 📧 Email: support@blosafe.com
